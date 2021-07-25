@@ -1,0 +1,23 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IghsaanMurphy/recipes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IghsaanMurphy/recipes/issues"
+  },
+  "homepage": "https://IghsaanMurphy.github.io/recipes",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
